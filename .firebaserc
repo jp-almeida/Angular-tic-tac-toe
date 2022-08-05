@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "jogo-da-velha-jp"
+  },
+  "targets": {
+    "jogo-da-velha-jp": {
+      "hosting": {
+        "myapp": [
+          "jogo-da-velha-jp"
+        ]
+      }
+    }
+  }
+}
